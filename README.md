@@ -8,5 +8,5 @@ The following Clustering techniques were implemented from scratch :
 * Hierarchical Clustering
 * DBScan
 
-
+Check output plots in the file [Clustering.pdf](https://github.com/mailsourajit25/Clustering/blob/main/Clustering.pdf)
 
