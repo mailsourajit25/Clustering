@@ -1,4 +1,4 @@
-# Comparative Study of different clustering techniques
+# Comparative study of different clustering techniques
 
 Breast Cancer Wisconsin (Diagnostic) Data Set
 Predict whether the cancer is benign or malignant
